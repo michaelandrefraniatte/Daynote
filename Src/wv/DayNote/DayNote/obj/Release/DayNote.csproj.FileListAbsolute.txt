@@ -154,7 +154,6 @@ C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\bin\Relea
 C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\bin\Release\Microsoft.Web.WebView2.Wpf.xml
 C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\bin\Release\Newtonsoft.Json.xml
 C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\obj\Release\DayNote.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\obj\Release\DayNote.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\obj\Release\DayNote.Form1.resources
 C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\obj\Release\DayNote.Properties.Resources.resources
 C:\Users\micha\Documents\github\DaynoteOfficial\Src\wv\DayNote\DayNote\obj\Release\DayNote.csproj.GenerateResource.cache
